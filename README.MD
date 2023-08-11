@@ -26,11 +26,11 @@ Converter sigue el patrón de arquitectura de software Modelo-Vista-Controlador 
 
 A continuación, algunas capturas de pantalla de la interfaz de usuario de Converter:
 
-![Captura de Pantalla 1](/screenshots/screenshot1.png)
-*Interfaz principal que muestra las categorías de conversión.*
+![Captura de Pantalla 1](https://i.imgur.com/557Nhne.png)
+*Ejemplo de conversión de divisas.*
 
-![Captura de Pantalla 2](/screenshots/screenshot2.png)
-*Ejemplo de conversión de temperatura.*
+![Captura de Pantalla 2](https://i.imgur.com/dEUwfTu.png)
+*Ejemplo de conversión de datos.*
 
 ## Instalación y Uso
 

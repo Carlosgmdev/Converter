@@ -6,6 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
 	<classpathentry exported="true" kind="lib" path="lib/json-20220320.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
