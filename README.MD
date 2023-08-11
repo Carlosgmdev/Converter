@@ -8,7 +8,7 @@ Converter es una aplicación de escritorio desarrollada en Java que utiliza la b
 
 ## Stack Tecnológico
 
-- Lenguaje de Programación: ![Java](https://cdn.icon-icons.com/icons2/2415/PNG/48/java_original_wordmark_logo_icon_146459.png)
+- Lenguaje de Programación: Java![Java](https://cdn.icon-icons.com/icons2/2415/PNG/48/java_original_wordmark_logo_icon_146459.png)
 - Interfaz Gráfica: Java Swing
 - Comunicación: API REST
 
